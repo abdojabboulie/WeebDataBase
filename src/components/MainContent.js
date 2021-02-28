@@ -10,7 +10,7 @@ function MainContent(props) {
 					onSubmit={props.HandleSearch}>
 					<input 
 						type="search"
-						placeholder="Search for an anime..."
+						placeholder="Weeb Search..."
 						required
 						value={props.search}
 						onChange={e => props.SetSearch(e.target.value)}/>
