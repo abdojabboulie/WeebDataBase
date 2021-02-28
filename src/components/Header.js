@@ -1,7 +1,7 @@
 function Header() {
 	return (
 		<header>
-			<h1>The<strong>WEEB</strong>DataBase</h1>
+			<h1>The<strong>WEEB</strong>SearchEngine</h1>
 		</header>
 	)
 }
